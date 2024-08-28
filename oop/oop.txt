@@ -1,0 +1,3 @@
+OPP stands for Object-Orientd Programming.
+Procedural programming is about procdures or functions that operations on the data, while object-oriented programming is about creating objects that contain both data and function.
+Object-orient programming has several advantages over procedural programming.
