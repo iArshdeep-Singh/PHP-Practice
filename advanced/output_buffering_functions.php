@@ -22,7 +22,7 @@ echo $content, "\n------------------\n";
 
 /*
 ob_start(): Start output buffering
-ob_get_contents(): Get/return current buffer without clearing it (also prints content inside buffer)
+    ob_get_contents(): Get/return current buffer without clearing it (also prints inner buffer content)
 ob_get_clean(): Get buffer and clear/end it 
 ob_clean(): Clear buffer but keep buffering active
 ob_end_clean(): Deletes the buffer completely
